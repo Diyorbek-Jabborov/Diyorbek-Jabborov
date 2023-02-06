@@ -1,6 +1,7 @@
 ![logo](https://github.com/Diyorbek-Jabborov/Diyorbek-Jabborov/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Diyorbek Jabborov</h1>
 <h3 align="center">Hardware and Software developer from Uzbekistan</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyorbek-jabborov&label=Profile%20views&color=0e75b6&style=flat" alt="diyorbek-jabborov" /> </p>
@@ -9,7 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/diyordjabborov" target="blank"><img src="https://img.shields.io/twitter/follow/diyordjabborov?logo=twitter&style=for-the-badge" alt="diyordjabborov" /></a> </p>
 
+- 🌱 I’m currently learning **Artificial Intelligence, SolidWorks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Diyorbek-Jabborov](https://github.com/Diyorbek-Jabborov)
+
 - 📫 How to reach me **diorbekdjabborov@gmail.com**
+
+- ⚡ Fun fact **I am a programmer studying both hardware and software**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +28,7 @@
 <a href="https://linkedin.com/in/diyorbek-jabboroov-91a000265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diyorbek-jabboroov-91a000265" height="30" width="40" /></a>
 <a href="https://fb.com/djabborovdiyorbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="djabborovdiyorbek" height="30" width="40" /></a>
 <a href="https://instagram.com/diyorbek_djabborov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diyorbek_djabborov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diyorbekjabborov0742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diyorbekjabborov0742" height="30" width="40" /></a>
+<a href="https://medium.com/@diyorbekdjabborov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diyorbekdjabborov" height="30" width="40" /></a>
 <a href="https://discord.gg/diyorbek_djabborov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diyorbek_djabborov" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyorbek-jabborov&show_icons=true&locale=en" alt="diyorbek-jabborov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyorbek-jabborov&" alt="diyorbek-jabborov" /></p>
+
 
